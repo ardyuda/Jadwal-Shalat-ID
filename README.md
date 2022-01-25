@@ -1,5 +1,7 @@
 # Jadwal-Shalat-ID (Real-Time)
 #
+# Dibuat pada 25 Januari 2022
+#
 # Fitur:
 # Mengetahui Jadwal Shalat di Wilayah Indonesia
 #
